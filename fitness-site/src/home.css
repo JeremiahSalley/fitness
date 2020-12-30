@@ -1,0 +1,123 @@
+h5 {
+    color: white;
+    font-size: 30px;
+    margin-top: 0px;
+    padding-top: 20px;
+}
+h6{
+    color: white;
+    font-size: 18px;
+}
+
+h3{
+    color: black;
+}
+.book{
+    background-color: orange;
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+    background-color: orange;
+    justify-content: space-evenly;
+}
+
+#services{
+    color:white;
+    background-color: black;
+    margin-top: 0px;
+}
+p2{
+    color: white;
+}
+.services{
+    background-color: black;
+}
+
+.details{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    right: 0px;
+    left: 0px;
+    height: 210px;
+    background-color: black;
+
+}
+
+#title{
+    position: relative;
+    margin: 0px;
+    top: 47px;
+    width: 100px;
+    right: 280px;
+    left: 190px;
+    color: white;
+}
+
+#para{
+    position: relative;
+    bottom: auto;
+    top: 77px;
+    right: 5px;
+    color: white;
+}
+
+img#heart2{
+    position: relative;
+    width: 120px;
+    height: 110px;
+    top: 75px;
+    left: 125px;
+}
+img#heart{
+    position: relative;
+    width: 120px;
+    height: 110px;
+    top: 75px;
+    right: 10px;
+}
+
+
+
+#title1{
+    position: relative;
+    top: 37px;
+    right: 110px;
+    left: 85px;
+    color: white;
+}
+
+#para1{
+    position: relative;
+    top: 81px;
+    right: 105px;
+    width: 300px;
+    color: white;
+}
+
+
+#title2{
+    position: relative;
+    top: 37px;
+    right: 43px;
+    color: white;
+}
+
+#para2{
+    position: relative;
+    right: 200px;
+    top: 85px;
+    width: 275px;
+    color: white;
+}
+
+#heart1{
+    position: relative;
+    right: 131px;
+    width: 120px;
+    height: 110px;
+    top: 75px;
+}
